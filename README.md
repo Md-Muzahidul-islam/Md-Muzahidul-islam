@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **C++ & Dart**
 
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/Muzahid-75)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/Md-Muzahidul-islam)
 
 - 💬 Ask me about **C++**
 

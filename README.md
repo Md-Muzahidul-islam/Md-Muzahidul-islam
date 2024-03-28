@@ -24,4 +24,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://www.iconfinder.com/icons/940979/html5_icon_%E2%80%A2_html_icon"/> </a> 
 </p>

@@ -65,5 +65,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-muzahidul-islam&show_icons=true&locale=en" alt="md-muzahidul-islam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-muzahidul-islam&" alt="md-muzahidul-islam" /></p>
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-muzahidul-islam&" alt="md-muzahidul-islam" />
+</p>
 

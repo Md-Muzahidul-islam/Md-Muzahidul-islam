@@ -31,4 +31,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Muzahidul-Islam)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Muzahidul-Islam&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Muzahidul-islam&show_icons=true)
